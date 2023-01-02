@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MortgageMonthly</string>
+    <string name="monthly_mortgage_calculator">Monthly Mortgage Calculator</string>
+    <string name="enter_total_amount_of_loan">enter total amount of loan</string>
+    <string name="solve">Solve</string>
+    <string name="enter_interest_rate">enter interest rate</string>
+    <string name="enter_amount_of_months">enter amount of months</string>
+</resources>
